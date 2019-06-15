@@ -1,0 +1,258 @@
+[
+  {
+    "id": 10,
+    "nombre": "Jujuy - Palpalá",
+    "semestre_1_2017": 17.8,
+    "semestre_2_2017": 18.7,
+    "semestre_1_2018": 23,
+    "semestre_2_2018": 24.7
+  },
+  {
+    "id": 17,
+    "nombre": "Salta",
+    "semestre_1_2017": 19.3,
+    "semestre_2_2017": 19.8,
+    "semestre_1_2018": 19.9,
+    "semestre_2_2018": 29.3
+  },
+  {
+    "id": 3,
+    "nombre": "Gran Catamarca",
+    "semestre_1_2017": 22.3,
+    "semestre_2_2017": 19.9,
+    "semestre_1_2018": 19.9,
+    "semestre_2_2018": 26.9
+  },
+  {
+    "id": 24,
+    "nombre": "Gran Tucumán - Tafí Viejo",
+    "semestre_1_2017": 18.4,
+    "semestre_2_2017": 16.5,
+    "semestre_1_2018": 17.9,
+    "semestre_2_2018": 25
+  },
+  {
+    "id": 9,
+    "nombre": "Formosa",
+    "semestre_1_2017": 20.3,
+    "semestre_2_2017": 19.4,
+    "semestre_1_2018": 17.7,
+    "semestre_2_2018": 23.8
+  },
+  {
+    "id": 4,
+    "nombre": "Gran Resistencia",
+    "semestre_1_2017": 25.5,
+    "semestre_2_2017": 30,
+    "semestre_1_2018": 22.5,
+    "semestre_2_2018": 31.5
+  },
+  {
+    "id": 22,
+    "nombre": "Santiago del Estero - La Banda",
+    "semestre_1_2017": 36.3,
+    "semestre_2_2017": 28,
+    "semestre_1_2018": 34.6,
+    "semestre_2_2018": 28
+  },
+  {
+    "id": 21,
+    "nombre": "Gran Santa Fe",
+    "semestre_1_2017": 18.3,
+    "semestre_2_2017": 18.1,
+    "semestre_1_2018": 20.4,
+    "semestre_2_2018": 23.1
+  },
+  {
+    "id": 21,
+    "nombre": "San Nicolás - Villa Constitución",
+    "semestre_1_2017": 20.4,
+    "semestre_2_2017": 17.8,
+    "semestre_1_2018": 19.1,
+    "semestre_2_2018": 23.4
+  },
+  {
+    "id": 21,
+    "nombre": "Gran Rosario",
+    "semestre_1_2017": 19,
+    "semestre_2_2017": 14.6,
+    "semestre_1_2018": 17.9,
+    "semestre_2_2018": 23.5
+  },
+  {
+    "id": 14,
+    "nombre": "Posadas",
+    "semestre_1_2017": 21.4,
+    "semestre_2_2017": 20.5,
+    "semestre_1_2018": 20.7,
+    "semestre_2_2018": 26.5
+  },
+  {
+    "id": 7,
+    "nombre": "Corrientes",
+    "semestre_1_2017": 31.8,
+    "semestre_2_2017": 28.9,
+    "semestre_1_2018": 29.5,
+    "semestre_2_2018": 38.4
+  },
+  {
+    "id": 8,
+    "nombre": "Concordia",
+    "semestre_1_2017": 31,
+    "semestre_2_2017": 26.5,
+    "semestre_1_2018": 25.4,
+    "semestre_2_2018": 31.1
+  },
+  {
+    "id": 8,
+    "nombre": "Gran Paraná",
+    "semestre_1_2017": 17.5,
+    "semestre_2_2017": 12.1,
+    "semestre_1_2018": 16.5,
+    "semestre_2_2018": 20.8
+  },
+  {
+    "id": 2,
+    "nombre": "Gran Córdoba",
+    "semestre_1_2017": 21.7,
+    "semestre_2_2017": 23.6,
+    "semestre_1_2018": 20.6,
+    "semestre_2_2018": 24
+  },
+  {
+    "id": 2,
+    "nombre": "Río Cuarto",
+    "semestre_1_2017": 19.9,
+    "semestre_2_2017": 17,
+    "semestre_1_2018": 19.4,
+    "semestre_2_2018": 19.6
+  },
+  {
+    "id": 12,
+    "nombre": "La Rioja",
+    "semestre_1_2017": 15.4,
+    "semestre_2_2017": 13.2,
+    "semestre_1_2018": 16.2,
+    "semestre_2_2018": 22.4
+  },
+  {
+    "id": 18,
+    "nombre": "Gran San Juan",
+    "semestre_1_2017": 18.7,
+    "semestre_2_2017": 19.9,
+    "semestre_1_2018": 17.7,
+    "semestre_2_2018": 22.2
+  },
+  {
+    "id": 13,
+    "nombre": "Gran Mendoza",
+    "semestre_1_2017": 21.5,
+    "semestre_2_2017": 18.9,
+    "semestre_1_2018": 19.4,
+    "semestre_2_2018": 21.9
+  },
+  {
+    "id": 19,
+    "nombre": "Gran San Luis",
+    "semestre_1_2017": 17.6,
+    "semestre_2_2017": 16.5,
+    "semestre_1_2018": 12.2,
+    "semestre_2_2018": 22.5
+  },
+  {
+    "id": 1,
+    "nombre": "Gran Buenos Aires",
+    "semestre_1_2017": 20.5,
+    "semestre_2_2017": 17.4,
+    "semestre_1_2018": 19.9,
+    "semestre_2_2018": 23.2
+  },
+  {
+    "id": 1,
+    "nombre": "Ciudad Autónoma de Buenos Aires",
+    "semestre_1_2017": 8.2,
+    "semestre_2_2017": 5.6,
+    "semestre_1_2018": 6.9,
+    "semestre_2_2018": 8.1
+  },
+  {
+    "id": 1,
+    "nombre": "Mar del Plata ",
+    "semestre_1_2017": 16.9,
+    "semestre_2_2017": 16.6,
+    "semestre_1_2018": 13.6,
+    "semestre_2_2018": 18.6
+  },
+  {
+    "id": 1,
+    "nombre": "Gran La Plata",
+    "semestre_1_2017": 21.5,
+    "semestre_2_2017": 15.9,
+    "semestre_1_2018": 21.2,
+    "semestre_2_2018": 21.5
+  },
+  {
+    "id": 1,
+    "nombre": "Bahía Blanca - Cerri",
+    "semestre_1_2017": 14.4,
+    "semestre_2_2017": 9.9,
+    "semestre_1_2018": 11.3,
+    "semestre_2_2018": 17.5
+  },
+  {
+    "id": 11,
+    "nombre": "Santa Rosa - Toay",
+    "semestre_1_2017": 17.6,
+    "semestre_2_2017": 18.2,
+    "semestre_1_2018": 17.3,
+    "semestre_2_2018": 22.6
+  },
+  {
+    "id": 15,
+    "nombre": "Neuquen - Plottier",
+    "semestre_1_2017": 20.4,
+    "semestre_2_2017": 15.4,
+    "semestre_1_2018": 19.3,
+    "semestre_2_2018": 21
+  },
+  {
+    "id": 16,
+    "nombre": "Viedma - Carmen de Patagones",
+    "semestre_1_2017": 24.2,
+    "semestre_2_2017": 19.3,
+    "semestre_1_2018": 17.2,
+    "semestre_2_2018": 20.1
+  },
+  {
+    "id": 5,
+    "nombre": "Rawson - Trelew",
+    "semestre_1_2017": 18.2,
+    "semestre_2_2017": 16.8,
+    "semestre_1_2018": 20.5,
+    "semestre_2_2018": 25.3
+  },
+  {
+    "id": 5,
+    "nombre": "Comodoro Rivadavia - Rada Tilly",
+    "semestre_1_2017": 13.8,
+    "semestre_2_2017": 9.8,
+    "semestre_1_2018": 10.6,
+    "semestre_2_2018": 17.1
+  },
+  {
+    "id": 20,
+    "nombre": "Río Gallegos",
+    "semestre_1_2017": 7.6,
+    "semestre_2_2017": 12.3,
+    "semestre_1_2018": 14.8,
+    "semestre_2_2018": 15.3
+  },
+  {
+    "id": 23,
+    "nombre": "Ushuaia - Río Grande",
+    "semestre_1_2017": 8.2,
+    "semestre_2_2017": 8.2,
+    "semestre_1_2018": 9.1,
+    "semestre_2_2018": 11.9
+  }
+]
