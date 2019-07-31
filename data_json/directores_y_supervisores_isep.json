@@ -1,0 +1,206 @@
+{
+  "NULL": {
+    "nombre": "NULL",
+    "Egresados": 0,
+    "Cursaron": 1,
+    "Cursando": 0
+  },
+  "Belgrano": {
+    "nombre": "Belgrano",
+    "Egresados": 0,
+    "Cursaron": 1,
+    "Cursando": 0
+  },
+  "Calamuchita": {
+    "nombre": "Calamuchita",
+    "Egresados": 18,
+    "Cursaron": 24,
+    "Cursando": 38
+  },
+  "Capital": {
+    "nombre": "Capital",
+    "Egresados": 357,
+    "Cursaron": 928,
+    "Cursando": 765
+  },
+  "Caseros": {
+    "nombre": "Caseros",
+    "Egresados": 1,
+    "Cursaron": 0,
+    "Cursando": 0
+  },
+  "Castellanos": {
+    "nombre": "Castellanos",
+    "Egresados": 0,
+    "Cursaron": 1,
+    "Cursando": 0
+  },
+  "Colón": {
+    "nombre": "Colón",
+    "Egresados": 65,
+    "Cursaron": 203,
+    "Cursando": 171
+  },
+  "Cruz del Eje": {
+    "nombre": "Cruz del Eje",
+    "Egresados": 10,
+    "Cursaron": 87,
+    "Cursando": 55
+  },
+  "Deseado": {
+    "nombre": "Deseado",
+    "Egresados": 0,
+    "Cursaron": 1,
+    "Cursando": 0
+  },
+  "General Roca": {
+    "nombre": "General Roca",
+    "Egresados": 7,
+    "Cursaron": 27,
+    "Cursando": 17
+  },
+  "General San Martín": {
+    "nombre": "General San Martín",
+    "Egresados": 31,
+    "Cursaron": 80,
+    "Cursando": 93
+  },
+  "Ischilín": {
+    "nombre": "Ischilín",
+    "Egresados": 18,
+    "Cursaron": 40,
+    "Cursando": 38
+  },
+  "Juárez Celman": {
+    "nombre": "Juárez Celman",
+    "Egresados": 21,
+    "Cursaron": 33,
+    "Cursando": 31
+  },
+  "Marcos Juárez": {
+    "nombre": "Marcos Juárez",
+    "Egresados": 25,
+    "Cursaron": 70,
+    "Cursando": 63
+  },
+  "Minas": {
+    "nombre": "Minas",
+    "Egresados": 1,
+    "Cursaron": 5,
+    "Cursando": 1
+  },
+  "Ojo De Agua": {
+    "nombre": "Ojo De Agua",
+    "Egresados": 1,
+    "Cursaron": 0,
+    "Cursando": 0
+  },
+  "Pocho": {
+    "nombre": "Pocho",
+    "Egresados": 0,
+    "Cursaron": 2,
+    "Cursando": 1
+  },
+  "Presidente Roque Sáenz Peña": {
+    "nombre": "Presidente Roque Sáenz Peña",
+    "Egresados": 33,
+    "Cursaron": 71,
+    "Cursando": 52
+  },
+  "Punilla": {
+    "nombre": "Punilla",
+    "Egresados": 46,
+    "Cursaron": 142,
+    "Cursando": 131
+  },
+  "Rio Chico": {
+    "nombre": "Rio Chico",
+    "Egresados": 0,
+    "Cursaron": 0,
+    "Cursando": 1
+  },
+  "Río Cuarto": {
+    "nombre": "Río Cuarto",
+    "Egresados": 108,
+    "Cursaron": 221,
+    "Cursando": 182
+  },
+  "Río Primero": {
+    "nombre": "Río Primero",
+    "Egresados": 26,
+    "Cursaron": 49,
+    "Cursando": 40
+  },
+  "Río Seco": {
+    "nombre": "Río Seco",
+    "Egresados": 3,
+    "Cursaron": 10,
+    "Cursando": 5
+  },
+  "Río Segundo": {
+    "nombre": "Río Segundo",
+    "Egresados": 46,
+    "Cursaron": 96,
+    "Cursando": 99
+  },
+  "San Alberto": {
+    "nombre": "San Alberto",
+    "Egresados": 12,
+    "Cursaron": 36,
+    "Cursando": 27
+  },
+  "San Cristobal": {
+    "nombre": "San Cristobal",
+    "Egresados": 1,
+    "Cursaron": 0,
+    "Cursando": 0
+  },
+  "San Javier": {
+    "nombre": "San Javier",
+    "Egresados": 19,
+    "Cursaron": 88,
+    "Cursando": 53
+  },
+  "San Justo": {
+    "nombre": "San Justo",
+    "Egresados": 72,
+    "Cursaron": 140,
+    "Cursando": 145
+  },
+  "Santa María": {
+    "nombre": "Santa María",
+    "Egresados": 45,
+    "Cursaron": 119,
+    "Cursando": 94
+  },
+  "Sobremonte": {
+    "nombre": "Sobremonte",
+    "Egresados": 0,
+    "Cursaron": 2,
+    "Cursando": 1
+  },
+  "Tercero Arriba": {
+    "nombre": "Tercero Arriba",
+    "Egresados": 34,
+    "Cursaron": 54,
+    "Cursando": 71
+  },
+  "Totoral": {
+    "nombre": "Totoral",
+    "Egresados": 6,
+    "Cursaron": 12,
+    "Cursando": 6
+  },
+  "Tulumba": {
+    "nombre": "Tulumba",
+    "Egresados": 5,
+    "Cursaron": 6,
+    "Cursando": 8
+  },
+  "Unión": {
+    "nombre": "Unión",
+    "Egresados": 54,
+    "Cursaron": 76,
+    "Cursando": 96
+  }
+}
