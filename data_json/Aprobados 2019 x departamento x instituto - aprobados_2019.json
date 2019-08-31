@@ -1,0 +1,434 @@
+[
+  {
+    "dtoID": 342,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Justo José de Urquiza",
+    "departamento": "Juárez Celman",
+    "estado": "Aprobado",
+    "total": 3
+  },
+  {
+    "dtoID": 343,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Justo José de Urquiza",
+    "departamento": "Río Cuarto",
+    "estado": "Aprobado",
+    "total": 17
+  },
+  {
+    "dtoID": 332,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior Dr. Carlos María Carena",
+    "departamento": "Pocho",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 333,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior Dr. Carlos María Carena",
+    "departamento": "San Alberto",
+    "estado": "Aprobado",
+    "total": 19
+  },
+  {
+    "dtoID": 334,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior Dr. Carlos María Carena",
+    "departamento": "San Javier",
+    "estado": "Aprobado",
+    "total": 12
+  },
+  {
+    "dtoID": 342,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior Dr. Carlos María Carena",
+    "departamento": "Junin",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 327,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Enseñanza Superior Simón Bolívar",
+    "departamento": "Colón",
+    "estado": "Aprobado",
+    "total": 9
+  },
+  {
+    "dtoID": 328,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Enseñanza Superior Simón Bolívar",
+    "departamento": "Punilla",
+    "estado": "Aprobado",
+    "total": 4
+  },
+  {
+    "dtoID": 340,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Enseñanza Superior Simón Bolívar",
+    "departamento": "Río Primero",
+    "estado": "Aprobado",
+    "total": 3
+  },
+  {
+    "dtoID": 335,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Enseñanza Superior Simón Bolívar",
+    "departamento": "Río Segundo",
+    "estado": "Aprobado",
+    "total": 5
+  },
+  {
+    "dtoID": 330,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Enseñanza Superior Simón Bolívar",
+    "departamento": "Santa María",
+    "estado": "Aprobado",
+    "total": 5
+  },
+  {
+    "dtoID": 341,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Enseñanza Superior Simón Bolívar",
+    "departamento": "Tercero Arriba",
+    "estado": "Aprobado",
+    "total": 2
+  },
+  {
+    "dtoID": 329,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Enseñanza Superior Simón Bolívar",
+    "departamento": "Capital",
+    "estado": "Aprobado",
+    "total": 55
+  },
+  {
+    "dtoID": 336,
+    "tipo": "Seminario",
+    "nombre": "Colegio Superior San Martín",
+    "departamento": "San Justo",
+    "estado": "Aprobado",
+    "total": 27
+  },
+  {
+    "dtoID": 336,
+    "tipo": "Seminario",
+    "nombre": "Colegio Superior San Martín",
+    "departamento": "San Martin",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 339,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Educación Superior del Centro de La República \"Dr. Angel Diego Márquez\"",
+    "departamento": "General San Martín",
+    "estado": "Aprobado",
+    "total": 6
+  },
+  {
+    "dtoID": 342,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Educación Superior del Centro de La República \"Dr. Angel Diego Márquez\"",
+    "departamento": "Juárez Celman",
+    "estado": "Aprobado",
+    "total": 4
+  },
+  {
+    "dtoID": 338,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Educación Superior del Centro de La República \"Dr. Angel Diego Márquez\"",
+    "departamento": "Marcos Juárez",
+    "estado": "Aprobado",
+    "total": 2
+  },
+  {
+    "dtoID": 335,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Educación Superior del Centro de La República \"Dr. Angel Diego Márquez\"",
+    "departamento": "Río Segundo",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 336,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Educación Superior del Centro de La República \"Dr. Angel Diego Márquez\"",
+    "departamento": "San Justo",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 341,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Educación Superior del Centro de La República \"Dr. Angel Diego Márquez\"",
+    "departamento": "Tercero Arriba",
+    "estado": "Aprobado",
+    "total": 2
+  },
+  {
+    "dtoID": 337,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Educación Superior del Centro de La República \"Dr. Angel Diego Márquez\"",
+    "departamento": "Unión",
+    "estado": "Aprobado",
+    "total": 12
+  },
+  {
+    "dtoID": 326,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior Dr. Bernardo Houssay",
+    "departamento": "Cruz del Eje",
+    "estado": "Aprobado",
+    "total": 9
+  },
+  {
+    "dtoID": 328,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior Dr. Bernardo Houssay",
+    "departamento": "Punilla",
+    "estado": "Aprobado",
+    "total": 4
+  },
+  {
+    "dtoID": 327,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior de Estudios Pedagógicos",
+    "departamento": "Colón",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 326,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior de Estudios Pedagógicos",
+    "departamento": "Cruz del Eje",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 343,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior de Estudios Pedagógicos",
+    "departamento": "Río Cuarto",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 334,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior de Estudios Pedagógicos",
+    "departamento": "San Javier",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 336,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior de Estudios Pedagógicos",
+    "departamento": "San Justo",
+    "estado": "Aprobado",
+    "total": 2
+  },
+  {
+    "dtoID": 330,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior de Estudios Pedagógicos",
+    "departamento": "Santa María",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 337,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior de Estudios Pedagógicos",
+    "departamento": "Unión",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 329,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior de Estudios Pedagógicos",
+    "departamento": "Capital",
+    "estado": "Aprobado",
+    "total": 8
+  },
+  {
+    "dtoID": 329,
+    "tipo": "Seminario",
+    "nombre": "Instituto Superior de Estudios Pedagógicos",
+    "departamento": "Ciudad Autónoma de Buenos Aires",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 327,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Alejandro Carbó",
+    "departamento": "Colón",
+    "estado": "Aprobado",
+    "total": 3
+  },
+  {
+    "dtoID": 328,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Alejandro Carbó",
+    "departamento": "Punilla",
+    "estado": "Aprobado",
+    "total": 7
+  },
+  {
+    "dtoID": 340,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Alejandro Carbó",
+    "departamento": "Río Primero",
+    "estado": "Aprobado",
+    "total": 2
+  },
+  {
+    "dtoID": 335,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Alejandro Carbó",
+    "departamento": "Río Segundo",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 336,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Alejandro Carbó",
+    "departamento": "San Justo",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 330,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Alejandro Carbó",
+    "departamento": "Santa María",
+    "estado": "Aprobado",
+    "total": 3
+  },
+  {
+    "dtoID": 329,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Alejandro Carbó",
+    "departamento": "Capital",
+    "estado": "Aprobado",
+    "total": 54
+  },
+  {
+    "dtoID": 393,
+    "tipo": "Seminario",
+    "nombre": "Instituto de Enseñanza Superior Eduardo Lefebvre de Laboulaye",
+    "departamento": "Presidente Roque Sáenz Peña",
+    "estado": "Aprobado",
+    "total": 15
+  },
+  {
+    "dtoID": 378,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Calamuchita",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 327,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Colón",
+    "estado": "Aprobado",
+    "total": 8
+  },
+  {
+    "dtoID": 339,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "General San Martín",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 342,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Juárez Celman",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 328,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Punilla",
+    "estado": "Aprobado",
+    "total": 7
+  },
+  {
+    "dtoID": 343,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Río Cuarto",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 340,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Río Primero",
+    "estado": "Aprobado",
+    "total": 2
+  },
+  {
+    "dtoID": 335,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Río Segundo",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 334,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "San Javier",
+    "estado": "Aprobado",
+    "total": 3
+  },
+  {
+    "dtoID": 336,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "San Justo",
+    "estado": "Aprobado",
+    "total": 5
+  },
+  {
+    "dtoID": 330,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Santa María",
+    "estado": "Aprobado",
+    "total": 4
+  },
+  {
+    "dtoID": 341,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Tercero Arriba",
+    "estado": "Aprobado",
+    "total": 1
+  },
+  {
+    "dtoID": 329,
+    "tipo": "Seminario",
+    "nombre": "Escuela Normal Superior Dr. Agustín Garzón Agulla",
+    "departamento": "Capital",
+    "estado": "Aprobado",
+    "total": 37
+  }
+]
