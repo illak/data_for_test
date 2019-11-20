@@ -1,0 +1,109 @@
+{
+  "Hoja 1": {
+    "Punilla": {
+      "Departamento": "Punilla",
+      "Alcance": 0.9194630872483222
+    },
+    "Capital": {
+      "Departamento": "Capital",
+      "Alcance": 0.8254335260115607
+    },
+    "Colón": {
+      "Departamento": "Colón",
+      "Alcance": 0.8195876288659794
+    },
+    "Presidente Roque Sáenz Peña": {
+      "Departamento": "Presidente Roque Sáenz Peña",
+      "Alcance": 0.7662337662337663
+    },
+    "Río Segundo": {
+      "Departamento": "Río Segundo",
+      "Alcance": 0.660377358490566
+    },
+    "Santa María": {
+      "Departamento": "Santa María",
+      "Alcance": 0.6204379562043796
+    },
+    "Río Cuarto": {
+      "Departamento": "Río Cuarto",
+      "Alcance": 0.6078431372549019
+    },
+    "San Javier": {
+      "Departamento": "San Javier",
+      "Alcance": 0.5533980582524272
+    },
+    "General San Martín": {
+      "Departamento": "General San Martín",
+      "Alcance": 0.5028571428571429
+    },
+    "Ischilín": {
+      "Departamento": "Ischilín",
+      "Alcance": 0.47560975609756095
+    },
+    "Unión": {
+      "Departamento": "Unión",
+      "Alcance": 0.43478260869565216
+    },
+    "Tercero Arriba": {
+      "Departamento": "Tercero Arriba",
+      "Alcance": 0.4276315789473684
+    },
+    "San Justo": {
+      "Departamento": "San Justo",
+      "Alcance": 0.39473684210526316
+    },
+    "Marcos Juárez": {
+      "Departamento": "Marcos Juárez",
+      "Alcance": 0.3869047619047619
+    },
+    "Cruz del Eje": {
+      "Departamento": "Cruz del Eje",
+      "Alcance": 0.3496932515337423
+    },
+    "San Alberto": {
+      "Departamento": "San Alberto",
+      "Alcance": 0.29
+    },
+    "Calamuchita": {
+      "Departamento": "Calamuchita",
+      "Alcance": 0.27692307692307694
+    },
+    "Juárez Celman": {
+      "Departamento": "Juárez Celman",
+      "Alcance": 0.25984251968503935
+    },
+    "Río Primero": {
+      "Departamento": "Río Primero",
+      "Alcance": 0.23026315789473684
+    },
+    "General Roca": {
+      "Departamento": "General Roca",
+      "Alcance": 0.21428571428571427
+    },
+    "Tulumba": {
+      "Departamento": "Tulumba",
+      "Alcance": 0.11538461538461539
+    },
+    "Totoral": {
+      "Departamento": "Totoral",
+      "Alcance": 0.10256410256410256
+    },
+    "Río Seco": {
+      "Departamento": "Río Seco",
+      "Alcance": 0.0684931506849315
+    },
+    "Sobremonte": {
+      "Departamento": "Sobremonte",
+      "Alcance": 0.03571428571428571
+    },
+    "Minas": {
+      "Departamento": "Minas",
+      "Alcance": 0.021739130434782608
+    },
+    "Pocho": {
+      "Departamento": "Pocho",
+      "Alcance": 0.0196078431372549
+    }
+  },
+  "Hoja 2": {}
+}
