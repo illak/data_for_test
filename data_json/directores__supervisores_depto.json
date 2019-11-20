@@ -1,0 +1,240 @@
+{
+  "Hoja 1": {
+    "328": {
+      "Id": 328,
+      "nombre": "Punilla",
+      "Total": 0.9194630872483222
+    },
+    "329": {
+      "Id": 329,
+      "nombre": "Capital",
+      "Total": 0.8254335260115607
+    },
+    "327": {
+      "Id": 327,
+      "nombre": "Colón",
+      "Total": 0.8195876288659794
+    },
+    "393": {
+      "Id": 393,
+      "nombre": "Presidente Roque Sáenz Peña",
+      "Total": 0.7662337662337663
+    },
+    "335": {
+      "Id": 335,
+      "nombre": "Río Segundo",
+      "Total": 0.660377358490566
+    },
+    "330": {
+      "Id": 330,
+      "nombre": "Santa María",
+      "Total": 0.6204379562043796
+    },
+    "343": {
+      "Id": 343,
+      "nombre": "Río Cuarto",
+      "Total": 0.6078431372549019
+    },
+    "334": {
+      "Id": 334,
+      "nombre": "San Javier",
+      "Total": 0.5533980582524272
+    },
+    "339": {
+      "Id": 339,
+      "nombre": "General San Martín",
+      "Total": 0.5028571428571429
+    },
+    "324": {
+      "Id": 324,
+      "nombre": "Ischilín",
+      "Total": 0.47560975609756095
+    },
+    "337": {
+      "Id": 337,
+      "nombre": "Unión",
+      "Total": 0.43478260869565216
+    },
+    "341": {
+      "Id": 341,
+      "nombre": "Tercero Arriba",
+      "Total": 0.4276315789473684
+    },
+    "336": {
+      "Id": 336,
+      "nombre": "San Justo",
+      "Total": 0.39473684210526316
+    },
+    "338": {
+      "Id": 338,
+      "nombre": "Marcos Juárez",
+      "Total": 0.3869047619047619
+    },
+    "326": {
+      "Id": 326,
+      "nombre": "Cruz del Eje",
+      "Total": 0.3496932515337423
+    },
+    "333": {
+      "Id": 333,
+      "nombre": "San Alberto",
+      "Total": 0.29
+    },
+    "378": {
+      "Id": 378,
+      "nombre": "Calamuchita",
+      "Total": 0.27692307692307694
+    },
+    "342": {
+      "Id": 342,
+      "nombre": "Juárez Celman",
+      "Total": 0.25984251968503935
+    },
+    "340": {
+      "Id": 340,
+      "nombre": "Río Primero",
+      "Total": 0.23026315789473684
+    },
+    "397": {
+      "Id": 397,
+      "nombre": "General Roca",
+      "Total": 0.21428571428571427
+    },
+    "323": {
+      "Id": 323,
+      "nombre": "Tulumba",
+      "Total": 0.11538461538461539
+    },
+    "325": {
+      "Id": 325,
+      "nombre": "Totoral",
+      "Total": 0.10256410256410256
+    },
+    "433": {
+      "Id": 433,
+      "nombre": "Río Seco",
+      "Total": 0.0684931506849315
+    },
+    "322": {
+      "Id": 322,
+      "nombre": "Sobremonte",
+      "Total": 0.03571428571428571
+    },
+    "331": {
+      "Id": 331,
+      "nombre": "Minas",
+      "Total": 0.021739130434782608
+    },
+    "332": {
+      "Id": 332,
+      "nombre": "Pocho",
+      "Total": 0.0196078431372549
+    }
+  },
+  "Hoja 2": {
+    "Calamuchita": {
+      "nombre": "Calamuchita",
+      "Id": 378
+    },
+    "Capital": {
+      "nombre": "Capital",
+      "Id": 329
+    },
+    "Colón": {
+      "nombre": "Colón",
+      "Id": 327
+    },
+    "Cruz del Eje": {
+      "nombre": "Cruz del Eje",
+      "Id": 326
+    },
+    "General Roca": {
+      "nombre": "General Roca",
+      "Id": 397
+    },
+    "General San Martín": {
+      "nombre": "General San Martín",
+      "Id": 339
+    },
+    "Ischilín": {
+      "nombre": "Ischilín",
+      "Id": 324
+    },
+    "Juárez Celman": {
+      "nombre": "Juárez Celman",
+      "Id": 342
+    },
+    "Marcos Juárez": {
+      "nombre": "Marcos Juárez",
+      "Id": 338
+    },
+    "Minas": {
+      "nombre": "Minas",
+      "Id": 331
+    },
+    "Pocho": {
+      "nombre": "Pocho",
+      "Id": 332
+    },
+    "Presidente Roque Sáenz Peña": {
+      "nombre": "Presidente Roque Sáenz Peña",
+      "Id": 393
+    },
+    "Punilla": {
+      "nombre": "Punilla",
+      "Id": 328
+    },
+    "Río Cuarto": {
+      "nombre": "Río Cuarto",
+      "Id": 343
+    },
+    "Río Primero": {
+      "nombre": "Río Primero",
+      "Id": 340
+    },
+    "Río Seco": {
+      "nombre": "Río Seco",
+      "Id": 433
+    },
+    "Río Segundo": {
+      "nombre": "Río Segundo",
+      "Id": 335
+    },
+    "San Alberto": {
+      "nombre": "San Alberto",
+      "Id": 333
+    },
+    "San Javier": {
+      "nombre": "San Javier",
+      "Id": 334
+    },
+    "San Justo": {
+      "nombre": "San Justo",
+      "Id": 336
+    },
+    "Santa María": {
+      "nombre": "Santa María",
+      "Id": 330
+    },
+    "Sobremonte": {
+      "nombre": "Sobremonte",
+      "Id": 322
+    },
+    "Tercero Arriba": {
+      "nombre": "Tercero Arriba",
+      "Id": 341
+    },
+    "Totoral": {
+      "nombre": "Totoral",
+      "Id": 325
+    },
+    "Tulumba": {
+      "nombre": "Tulumba",
+      "Id": 323
+    },
+    "Unión": {
+      "nombre": "Unión",
+      "Id": 337
+    }
+  }
+}
