@@ -1,0 +1,132 @@
+{
+  "393": {
+    "Id": 393,
+    "nombre": "Presidente Roque Sáenz Peña",
+    "Cobertura": 0.1800314465408805
+  },
+  "328": {
+    "Id": 328,
+    "nombre": "Punilla",
+    "Cobertura": 0.11807619562280465
+  },
+  "341": {
+    "Id": 341,
+    "nombre": "Tercero Arriba",
+    "Cobertura": 0.11448176236908632
+  },
+  "343": {
+    "Id": 343,
+    "nombre": "Río Cuarto",
+    "Cobertura": 0.11161022805805114
+  },
+  "324": {
+    "Id": 324,
+    "nombre": "Ischilín",
+    "Cobertura": 0.10548885077186965
+  },
+  "333": {
+    "Id": 333,
+    "nombre": "San Alberto",
+    "Cobertura": 0.10177935943060498
+  },
+  "337": {
+    "Id": 337,
+    "nombre": "Unión",
+    "Cobertura": 0.10151956029744584
+  },
+  "334": {
+    "Id": 334,
+    "nombre": "San Javier",
+    "Cobertura": 0.10144927536231885
+  },
+  "336": {
+    "Id": 336,
+    "nombre": "San Justo",
+    "Cobertura": 0.09676873625444088
+  },
+  "330": {
+    "Id": 330,
+    "nombre": "Santa María",
+    "Cobertura": 0.09448018963765661
+  },
+  "339": {
+    "Id": 339,
+    "nombre": "General San Martín",
+    "Cobertura": 0.09241952232606439
+  },
+  "327": {
+    "Id": 327,
+    "nombre": "Colón",
+    "Cobertura": 0.090637264062792
+  },
+  "335": {
+    "Id": 335,
+    "nombre": "Río Segundo",
+    "Cobertura": 0.08831808585503166
+  },
+  "342": {
+    "Id": 342,
+    "nombre": "Juárez Celman",
+    "Cobertura": 0.08785529715762273
+  },
+  "326": {
+    "Id": 326,
+    "nombre": "Cruz del Eje",
+    "Cobertura": 0.08373947718210013
+  },
+  "329": {
+    "Id": 329,
+    "nombre": "Capital",
+    "Cobertura": 0.08185525312468919
+  },
+  "340": {
+    "Id": 340,
+    "nombre": "Río Primero",
+    "Cobertura": 0.07765754296626352
+  },
+  "338": {
+    "Id": 338,
+    "nombre": "Marcos Juárez",
+    "Cobertura": 0.07118515713744794
+  },
+  "378": {
+    "Id": 378,
+    "nombre": "Calamuchita",
+    "Cobertura": 0.06791277258566979
+  },
+  "397": {
+    "Id": 397,
+    "nombre": "General Roca",
+    "Cobertura": 0.056210335448776065
+  },
+  "332": {
+    "Id": 332,
+    "nombre": "Pocho",
+    "Cobertura": 0.05415162454873646
+  },
+  "325": {
+    "Id": 325,
+    "nombre": "Totoral",
+    "Cobertura": 0.03903559127439724
+  },
+  "323": {
+    "Id": 323,
+    "nombre": "Tulumba",
+    "Cobertura": 0.03588907014681892
+  },
+  "331": {
+    "Id": 331,
+    "nombre": "Minas",
+    "Cobertura": 0.032
+  },
+  "433": {
+    "Id": 433,
+    "nombre": "Río Seco",
+    "Cobertura": 0.030560271646859084
+  },
+  "322": {
+    "Id": 322,
+    "nombre": "Sobremonte",
+    "Cobertura": 0.019704433497536946
+  }
+}
