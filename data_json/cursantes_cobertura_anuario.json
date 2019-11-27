@@ -1,0 +1,132 @@
+{
+  "393": {
+    "Id": 393,
+    "nombre": "Presidente Roque Sáenz Peña",
+    "Total": 1.3246753246753247
+  },
+  "328": {
+    "Id": 328,
+    "nombre": "Punilla",
+    "Total": 1.0604026845637584
+  },
+  "329": {
+    "Id": 329,
+    "nombre": "Capital",
+    "Total": 1.015028901734104
+  },
+  "334": {
+    "Id": 334,
+    "nombre": "San Javier",
+    "Total": 0.941747572815534
+  },
+  "333": {
+    "Id": 333,
+    "nombre": "San Alberto",
+    "Total": 0.82
+  },
+  "327": {
+    "Id": 327,
+    "nombre": "Colón",
+    "Total": 0.7989690721649485
+  },
+  "341": {
+    "Id": 341,
+    "nombre": "Tercero Arriba",
+    "Total": 0.6907894736842105
+  },
+  "330": {
+    "Id": 330,
+    "nombre": "Santa María",
+    "Total": 0.656934306569343
+  },
+  "343": {
+    "Id": 343,
+    "nombre": "Río Cuarto",
+    "Total": 0.6274509803921569
+  },
+  "336": {
+    "Id": 336,
+    "nombre": "San Justo",
+    "Total": 0.6228070175438597
+  },
+  "337": {
+    "Id": 337,
+    "nombre": "Unión",
+    "Total": 0.5024154589371981
+  },
+  "324": {
+    "Id": 324,
+    "nombre": "Ischilín",
+    "Total": 0.5
+  },
+  "326": {
+    "Id": 326,
+    "nombre": "Cruz del Eje",
+    "Total": 0.48466257668711654
+  },
+  "339": {
+    "Id": 339,
+    "nombre": "General San Martín",
+    "Total": 0.44571428571428573
+  },
+  "335": {
+    "Id": 335,
+    "nombre": "Río Segundo",
+    "Total": 0.41509433962264153
+  },
+  "342": {
+    "Id": 342,
+    "nombre": "Juárez Celman",
+    "Total": 0.3228346456692913
+  },
+  "397": {
+    "Id": 397,
+    "nombre": "General Roca",
+    "Total": 0.2976190476190476
+  },
+  "340": {
+    "Id": 340,
+    "nombre": "Río Primero",
+    "Total": 0.21052631578947367
+  },
+  "338": {
+    "Id": 338,
+    "nombre": "Marcos Juárez",
+    "Total": 0.19642857142857142
+  },
+  "378": {
+    "Id": 378,
+    "nombre": "Calamuchita",
+    "Total": 0.13846153846153847
+  },
+  "325": {
+    "Id": 325,
+    "nombre": "Totoral",
+    "Total": 0.08974358974358974
+  },
+  "331": {
+    "Id": 331,
+    "nombre": "Minas",
+    "Total": 0.08695652173913043
+  },
+  "323": {
+    "Id": 323,
+    "nombre": "Tulumba",
+    "Total": 0.07692307692307693
+  },
+  "332": {
+    "Id": 332,
+    "nombre": "Pocho",
+    "Total": 0.058823529411764705
+  },
+  "433": {
+    "Id": 433,
+    "nombre": "Río Seco",
+    "Total": 0.0547945205479452
+  },
+  "322": {
+    "Id": 322,
+    "nombre": "Sobremonte",
+    "Total": 0.03571428571428571
+  }
+}
